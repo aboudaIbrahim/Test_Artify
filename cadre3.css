@@ -1,0 +1,33 @@
+body {
+  background: rgb(70, 70, 219);
+}
+
+#cadre-3 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+.d1 {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 50%;
+  padding: 10px; 
+}
+
+.d12 { 
+    border-radius: 50%; 
+    background: white;
+} 
+.d22{ 
+    border-radius: 20px; 
+    background: white; 
+    width: 90%;
+}
